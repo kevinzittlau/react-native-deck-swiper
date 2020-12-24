@@ -2,6 +2,7 @@ import { Animated, Dimensions, PanResponder, Text, View } from 'react-native'
 import React, { Component } from 'react'
 
 import PropTypes from 'prop-types'
+import ViewOverflow from 'react-native-view-overflow';
 import isEqual from 'lodash/isEqual'
 import styles from './styles'
 
