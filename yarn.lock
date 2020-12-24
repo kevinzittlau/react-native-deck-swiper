@@ -2821,6 +2821,11 @@ react-deep-force-update@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.1.0.tgz#8d131ae07ae02f08df60744eb2cf2de4fcb325f1"
 
+react-native-view-overflow@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-view-overflow/-/react-native-view-overflow-0.0.5.tgz#56c49f0f7cdb9fd145de241d6f6bf4cfe5660915"
+  integrity sha512-p/peyU3IC7M84bZEz2K7hpLrKBPUT3W7/+wnXjGw40hX/Iaj0OmOqJI6mJcBUlpcHJvGYbx2OOpPZa4+hwJC6w==
+
 react-proxy@^1.1.7:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/react-proxy/-/react-proxy-1.1.8.tgz#9dbfd9d927528c3aa9f444e4558c37830ab8c26a"
