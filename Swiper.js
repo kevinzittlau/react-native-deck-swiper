@@ -77,6 +77,11 @@ class Swiper extends Component {
       nextState.labelType !== state.labelType ||
       nextState.swipedAllCards !== state.swipedAllCards
     )
+    if(!isEqual(props.cards, nextProps.cards)){
+        this.setState({
+            swipedAllCards: false
+        });
+    }
     return propsChanged || stateChanged
   }
 
